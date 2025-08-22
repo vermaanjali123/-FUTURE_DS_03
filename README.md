@@ -16,4 +16,21 @@ This Power BI dashboard analyzes student feedback data to uncover insights about
 - Average rating per question  
 - Sum of ratings (1–10 scale)  
 - Sentiment classification
-- 
+-  Total number of responses  
+- Course recommendation indicators
+
+## 🛠️ Tools & Technologies
+- **Power BI Desktop** for data modeling and visualization  
+- **Excel/CSV** as the data source  
+- **DAX** for calculated columns and measures  
+- **Custom visuals** for sentiment and rating analysis
+
+## 🎓 Use Cases
+- Academic course evaluation  
+- Faculty performance review  
+- Curriculum improvement planning  
+- Student satisfaction reporting  
+- Educational research and analytics
+
+## 🙋‍♂️ Author
+**Anjali verma** – Passionate about educational analytics, dashboard design, and data-driven decision making.  
