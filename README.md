@@ -3,7 +3,8 @@
 This Power BI dashboard analyzes student feedback data to uncover insights about course effectiveness, teaching quality, and overall student satisfaction. It helps educators and administrators make data-driven decisions to improve learning outcomes.
 
 ## 📷 Dashboard Preview
-<img width="1441" height="793" alt="student feedback dashborad" src="https://github.com/user-attachments/assets/caf656cf-8b10-4f8c-be34-689908d9bc7b" />
+<img width="1441" height="793" alt="student feedback dashborad" src="https://github.com/user-attachments/assets/e72f2f11-e195-4bff-9866-55c99bdc1070" />
+
 
 ## 🎯 Key Features
 - 📊 **Question-wise rating analysis** with average scores and total responses  
