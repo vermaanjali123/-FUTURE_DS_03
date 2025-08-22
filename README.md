@@ -33,5 +33,6 @@ This Power BI dashboard analyzes student feedback data to uncover insights about
 - Student satisfaction reporting  
 - Educational research and analytics
 
-## 🙋‍♂️ Author
-**Anjali verma** – Passionate about educational analytics, dashboard design, and data-driven decision making.  
+## ✨ Author
+👩‍💻 Created by *Anjali Verma*-Passionate about data analytics, dashboard design, and educational tech.   
+LINKEDIN LINK :https://www.linkedin.com/in/anjali-verma-5672a5266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
